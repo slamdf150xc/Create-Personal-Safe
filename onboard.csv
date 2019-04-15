@@ -1,0 +1,2 @@
+Name,Privileged Account,Domain,dirMap
+Non-Privileged Account,Privileged Account,Domain privileged account is a member of,Accociated directory map in CyberArk for non-privileged user
